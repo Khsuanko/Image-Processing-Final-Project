@@ -10,3 +10,5 @@ python test.py --dataroot "datasets\font"  --model font_translator_gan  --eval -
 - Change batch size: `model\font_translator_gan_model.py > Line 13`
 
 - Change train options: `options\base_options.py` & `options\train_options.py`
+
+- Dataset: [Download](https://drive.google.com/file/d/186dNTWeKFs7qwODb8Qz52hK361It1Gk8/view?usp=sharing)
